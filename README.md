@@ -14,8 +14,7 @@ I am a full-stack developer, and every day I become more certain that this is wh
 
 <img src="https://github-readme-stats.vercel.app/api?username=thony-vieira&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=thony-vieira&theme=github_dark"/>
 |---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thony-vieira&layout=compact&theme=github_dark"/>|
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thony-vieira&layout=compact&theme=github_dark"/>|![](https://github-contributor-stats.vercel.app/api?username=thony-vieira&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)|
 ## Programming Languages
 
 <p>
