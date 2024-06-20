@@ -10,6 +10,8 @@ I am a full-stack developer, and every day I become more certain that this is wh
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thonybmx16&cover_image=false&theme=novatorem&show_offline=true&background_color=250909&interchange=false&bar_color=8517cf&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=thonybmx16&redirect=true)
 
+[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
 ## Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=thony-vieira&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=thony-vieira&theme=github_dark"/>
